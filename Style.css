@@ -1,0 +1,30 @@
+body { background: linear-gradient(45deg, #161717,#2519ab, #09f1f1);
+    color: rgb(215, 215, 215);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+   align-items: center;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    background-color: #161717;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 40px rgba(0,5,0,0.5);
+}
+
+button{
+    background: #2519ab;
+    color:azure;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 15px;
+}
